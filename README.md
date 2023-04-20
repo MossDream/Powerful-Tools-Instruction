@@ -12,7 +12,7 @@
 - [魔法工具](#)
   - [Clash for Windows](#)
   - [ProtonVPN](#)
-- [通用人工智能](#强大的工具)
+- [通用人工智能](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/General%20AI)
   - [ChatGPT](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT.md)
     - [GPT 3.5](#文本编辑器)
     - [GPT 4](#文本编辑器)
