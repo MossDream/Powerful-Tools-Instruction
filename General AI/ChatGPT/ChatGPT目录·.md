@@ -1,5 +1,5 @@
 # 目录
-- [ChatGPT概述]()
+- [ChatGPT概述](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT/ChatGPT%E6%A6%82%E8%BF%B0.md)
   - [ChatGPT自述]()
     - [gpt 3.5 turbo]()
     - [gpt 4]()
