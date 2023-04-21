@@ -3,7 +3,7 @@
 ## 使用指南
 本仓库旨在全面介绍一些实用的AI工具、办公软件等，没有任何盈利目的，请
 放心阅读和尝试！  
-**本仓库按照每款软件划分不同的Markdown文件，每份介绍文件主要由概述、教程、功能、优缺点评测、费用五个部分组成**
+**本仓库按照每款软件划分不同的文件夹，每份文件夹有六份文件介绍文件，分别对应目录、概述、教程、功能、优缺点评测、费用**
 * **概述部分主要介绍软件的基本信息，包括软件的名称、官网、简介、开发者、开源情况等**
 * **教程部分主要介绍软件的安装、使用方法等**
 * **功能部分主要介绍软件的主要功能，包括软件的主要功能、优势、特色等**
@@ -15,9 +15,6 @@
   - [ProtonVPN](#)
 - [通用人工智能](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/General%20AI)
   - [ChatGPT](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT.md)
-    - [GPT 3.5](#文本编辑器)
-    - [GPT 4](#文本编辑器)
-    - [GPT desktop](#文本编辑器)
   - [AutoGPT](#终端)
     - [Auto GPT](#文本编辑器)
     - [Agent GPT](#文本编辑器)
