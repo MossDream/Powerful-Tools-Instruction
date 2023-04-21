@@ -1,7 +1,13 @@
 # 目录
 - [ChatGPT概述]()
   - [ChatGPT自述]()
+    - [gpt 3.5 turbo]()
+    - [gpt 4]()
   - [ChatGPT概况]()
+  - [ChatGPT产品系列]()
+    - [gpt 3.5 turbo]()
+    - [gpt 4]()
+    - [gpt desktop]()
   - [一句话总结]()
 - []()
 - []()
