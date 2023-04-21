@@ -10,8 +10,8 @@
 * **优缺点评测部分主要介绍软件的优缺点，包括软件的优点、缺点、适用场景等**
 * **费用部分主要介绍软件的收费情况，包括软件的收费方式、收费标准、收费优惠等**
 ## 目录
-- [魔法工具](#)
-  - [Clash for Windows](#)
+- [魔法工具](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN)
+  - [Clash for Windows](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN/Clash%20for%20Windows)
   - [ProtonVPN](#)
 - [通用人工智能](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/General%20AI)
   - [ChatGPT](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/General%20AI/ChatGPT)
