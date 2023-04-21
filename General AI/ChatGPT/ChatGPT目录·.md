@@ -8,7 +8,7 @@
     - [ChatGPT](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT/ChatGPT%E6%A6%82%E8%BF%B0.md#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
     - [ChatGPT Plus](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT/ChatGPT%E6%A6%82%E8%BF%B0.md#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
     - [ChatGPT Desktop](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT/ChatGPT%E6%A6%82%E8%BF%B0.md#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
-  - [一句话总结]()
+  - [一句话总结](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT/ChatGPT%E6%A6%82%E8%BF%B0.md#%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%80%BB%E7%BB%93)
 - [ChatGPT教程]()
   - [注册/安装教程]()
     - [ChatGPT]()
