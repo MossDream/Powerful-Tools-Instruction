@@ -18,3 +18,10 @@
 | :-----------------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------: |
 |     Clash for Windows     |         Windows用户推荐在最新发布的列表中选择Setup arm64.exe版本下载         | [Github](https://github.com/Fndroid/clash_for_windows_pkg/releases) |
 | Clash for Windows汉化补丁 | 对英语不熟悉、难操作的用户可以选择下载汉化补丁,需要依据你的Clash版本对应下载 | [Github](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)  |
+
+## 一句话总结
+魔法工具是正常使用本仓库推荐的所有实用工具的基础，也是拓宽自己信息渠道的很好的途径。
+
+**[返回目录](#目录)**
+
+
