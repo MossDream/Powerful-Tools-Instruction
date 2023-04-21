@@ -18,5 +18,7 @@
     - [ChatGPT&ChatGPT Plus]()
     - [ChatGPT Desktop]()
 - [ChatGPT功能]()
+  - [ChatGPT&ChatGPT Plus]()
+  - [ChatGPT Desktop]()
 - [ChatGPT优缺点评测]()
 - [ChatGPT费用]()
