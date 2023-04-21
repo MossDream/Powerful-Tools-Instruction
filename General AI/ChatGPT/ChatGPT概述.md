@@ -46,3 +46,6 @@
 |     ChatGPT     | gpt-3.5-turbo |        基于GPT-3.5架构的大型语言模型，官网界面直接使用，内容体验最纯正        |     [OpenAI](https://chat.openai.com/)     |
 |  ChatGPT Plus   |     gpt-4     |         基于GPT-4架构的大型语言模型，官网界面直接使用，内容体验最纯正         |     [OpenAI](https://chat.openai.com/)     |
 | ChatGPT Desktop |  Github项目   | 提供官网接口的桌面应用程序，支持Windows、MacOS、Linux，还可以有一些个性化设置 | [Github](https://github.com/lencx/ChatGPT) |
+
+## 一句话总结
+这款最近爆火的AI绝对是你聊天、写作（获取灵感、批量生成感想）、问问题的好帮手！
