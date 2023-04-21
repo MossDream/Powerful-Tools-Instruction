@@ -27,7 +27,7 @@
   - [Visual Studio Code](#文献管理)
     - [Plugins](#数据处理)
   - [Visual Studio 2022](#数据处理)
-    - [Plugins](#数据处理)
+    - [Plugins](#使用指南)
   - [Jetbrains IDE](#数据可视化)
     - [Pycharm](#数据可视化)
       - [Plugins](#数据可视化)
