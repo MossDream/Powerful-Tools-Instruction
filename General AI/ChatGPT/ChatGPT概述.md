@@ -1,5 +1,17 @@
 # 概述
 
+## 目录
+- [ChatGPT自述](#chatgpt%E8%87%AA%E8%BF%B0)
+  - [gpt 3.5 turbo](#%E4%BB%A5%E4%B8%8B%E6%98%AFchatgpt-gpt-35-turbo%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8E%A5%E5%8F%97%E6%8C%87%E4%BB%A4%E5%90%8E%E8%87%AA%E8%A1%8C%E7%94%9F%E6%88%90%E7%9A%84%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D)
+  - [gpt 4](#%E4%BB%A5%E4%B8%8B%E6%98%AFchatgpt-gpt-4%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8E%A5%E5%8F%97%E6%8C%87%E4%BB%A4%E5%90%8E%E8%87%AA%E8%A1%8C%E7%94%9F%E6%88%90%E7%9A%84%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D)
+- [ChatGPT概况](#chatgpt%E6%A6%82%E5%86%B5)
+- [ChatGPT产品系列](#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+    - [ChatGPT](#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+    - [ChatGPT Plus](#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+    - [ChatGPT Desktop](#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+- [一句话总结](#%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%80%BB%E7%BB%93)
+
+
 ## ChatGPT自述
 ### **以下是ChatGPT gpt-3.5-turbo模型的接受指令后自行生成的自我介绍**
 >### 自我介绍
@@ -34,7 +46,7 @@
 >请注意，我虽然强大，但并非万能。有些领域的知识我可能不够精确，同时我无法获取到2021年9月之后的信息。请在使用时酌情参考。
 >谢谢！期待为您提供帮助！
 
-## ChatGPT概况  <a name="#chatgptgai-kuang"></a>
+## ChatGPT概况
 |     模型      |                官网                |           开发公司            | 开源情况 |
 | :-----------: | :--------------------------------: | :---------------------------: | :------: |
 | gpt-3.5-turbo | [OpenAI](https://chat.openai.com/) | [OpenAI](https://openai.com/) |  已开源  |
@@ -49,4 +61,3 @@
 
 ## 一句话总结
 这款最近爆火的AI绝对是你聊天、写作（获取灵感、批量生成感想）、问问题的好帮手！
-[跳转](#chatgpt%E8%87%AA%E8%BF%B0)
