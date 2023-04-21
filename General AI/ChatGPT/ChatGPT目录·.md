@@ -3,7 +3,7 @@
   - [ChatGPT自述](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT/ChatGPT%E6%A6%82%E8%BF%B0.md#chatgpt%E8%87%AA%E8%BF%B0)
     - [gpt 3.5 turbo](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT/ChatGPT%E6%A6%82%E8%BF%B0.md#chatgpt%E8%87%AA%E8%BF%B0)
     - [gpt 4](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT/ChatGPT%E6%A6%82%E8%BF%B0.md#chatgpt%E8%87%AA%E8%BF%B0)
-  - [ChatGPT概况]()
+  - [ChatGPT概况](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT/ChatGPT%E6%A6%82%E8%BF%B0.md#chatgpt%E6%A6%82%E5%86%B5)
   - [ChatGPT产品系列]()
     - [ChatGPT]()
     - [ChatGPT Plus]()
