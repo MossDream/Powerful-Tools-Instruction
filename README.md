@@ -14,7 +14,7 @@
   - [Clash for Windows](#)
   - [ProtonVPN](#)
 - [通用人工智能](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/General%20AI)
-  - [ChatGPT](https://github.com/MossDream/Powerful-Tools-Instruction/blob/main/General%20AI/ChatGPT.md)
+  - [ChatGPT](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/General%20AI/ChatGPT)
   - [AutoGPT](#终端)
     - [Auto GPT](#文本编辑器)
     - [Agent GPT](#文本编辑器)
