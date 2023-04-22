@@ -1,4 +1,4 @@
-# 功能
+# 📊功能
 
 ## 目录
 - [ChatGPT&ChatGPT Plus]()
