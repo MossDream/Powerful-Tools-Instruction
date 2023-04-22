@@ -11,13 +11,12 @@
 * **费用部分主要介绍软件的收费情况，包括软件的收费方式、收费标准、收费优惠等**
 ## 目录
 - [魔法工具](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN)
-  - [Clash for Windows](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN/Clash%20for%20Windows)
-  - [ProtonVPN](#)
+  - [Clash for Windows-适用于Windows](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN/Clash%20for%20Windows)
+  - [ProtonVPN-适用于Android](#)
 - [通用人工智能](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/General%20AI)
   - [ChatGPT](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/General%20AI/ChatGPT)
   - [AutoGPT](#终端)
-    - [Auto GPT](#文本编辑器)
-    - [Agent GPT](#文本编辑器)
+  - [AgentGPT](#文本编辑器)
   - [Google Bard](#浏览器)
   - [Claude](#图片处理)
 - [人工智能使用平台](#视频处理)
