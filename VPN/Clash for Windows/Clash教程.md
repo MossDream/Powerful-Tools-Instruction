@@ -11,7 +11,7 @@
  [Clash教程2](https://www.youtube.com/watch?v=29EugY-jnvA&t=240s)  
  [Clash教程3](https://www.youtube.com/watch?v=ofjp7CfQo80)  
 ## 官方文档
-2023年最新的官方文档可以参见：[Clash官方文档](https://clashforwindows.org/)
+2023年最新的官方文档可以参见：[Clash官方文档](https://clashforwindows.org/)  
 文档的讲述很细致，与视频教程相结合，可以快速上手Clash。图文理解能力好的用户也可以直接使用文档完成配置。
 ## 本人经验
 - [x] **配置文件很关键**，如果能低成本地使用到**节点多、延迟低**的配置文件，那么就能获得更好的上网体验。
