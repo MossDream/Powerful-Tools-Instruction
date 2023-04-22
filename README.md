@@ -12,7 +12,7 @@
 ## 目录
 - [魔法工具](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN)
   - [Clash for Windows-适用于Windows](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN/Clash%20for%20Windows)
-  - [ProtonVPN-适用于Android](#)
+  - [ProtonVPN-适用于Android](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN/ProtonVPN)
 - [通用人工智能](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/General%20AI)
   - [ChatGPT](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/General%20AI/ChatGPT)
   - [AutoGPT](#终端)
