@@ -19,6 +19,7 @@
 它与Clash的最大不同就是它可以算上是**非常正规**的一款VPN，这家公司专门研究该领域的技术，而且其VPN的速度也是非常快的，但是其缺点就是**免费用户的节点较少**，而且**免费用户的速度也是有限制的**，但是其**付费用户的节点和速度都是非常不错的**。所以如果你想要一款**正规的VPN**，那么ProtonVPN是一个不错的选择。
 
 ❗由于本人目前只体验过**ProtonVPN for Android**，所以本文只介绍了ProtonVPN for Android的使用方法，其他平台的使用方法请自行查阅。
+
 ## ProtonVPN产品系列
 ⚠**注意**
 * 请确保你已经注册了Proton账号，如果没有请先注册一个账号。前往[ProtonVPN官网](https://protonvpn.com/)注册账号。
@@ -33,3 +34,9 @@
 | ProtonVPN for GNU/Linux  | GNU/Linux  |  ProtonVPN for GNU/Linux是一款由ProtonVPN开发的GNU/Linux平台上的VPN软件，它可以帮助你在GNU/Linux平台上使用ProtonVPN的服务。   | [下载](https://account.protonvpn.com/downloads) |
 | ProtonVPN for Chromebook | Chromebook | ProtonVPN for Chromebook是一款由ProtonVPN开发的Chromebook平台上的VPN软件，它可以帮助你在Chromebook平台上使用ProtonVPN的服务。 | [下载](https://account.protonvpn.com/downloads) |
 | ProtonVPN for Android TV | Android TV | ProtonVPN for Android TV是一款由ProtonVPN开发的Android TV平台上的VPN软件，它可以帮助你在Android TV平台上使用ProtonVPN的服务。 | [下载](https://account.protonvpn.com/downloads) |
+
+## 一句话总结
+还是那句话，**魔法工具是正常使用本仓库推荐的所有实用工具的基础，也是拓宽自己信息渠道的很好的途径。**既然Windows电脑有了，自己的Android手机怎么能没有呢？ 💞 
+
+[🔝返回顶部](#目录)
+
