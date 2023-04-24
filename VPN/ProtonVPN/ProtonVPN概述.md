@@ -20,6 +20,10 @@
 
 ❗由于本人目前只体验过**ProtonVPN for Android**，所以本文只介绍了ProtonVPN for Android的使用方法，其他平台的使用方法请自行查阅。
 
+附官方介绍(英文)：
+[Features(特性)](https://protonvpn.com/secure-vpn)
+[About(关于)](https://protonvpn.com/about)
+
 ## ProtonVPN产品系列
 ⚠**注意**
 * 请确保你已经注册了Proton账号，如果没有请先注册一个账号。前往[ProtonVPN官网](https://protonvpn.com/)注册账号。
