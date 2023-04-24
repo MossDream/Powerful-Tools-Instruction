@@ -18,4 +18,18 @@
 
 它与Clash的最大不同就是它可以算上是**非常正规**的一款VPN，这家公司专门研究该领域的技术，而且其VPN的速度也是非常快的，但是其缺点就是**免费用户的节点较少**，而且**免费用户的速度也是有限制的**，但是其**付费用户的节点和速度都是非常不错的**。所以如果你想要一款**正规的VPN**，那么ProtonVPN是一个不错的选择。
 
+❗由于本人目前只体验过**ProtonVPN for Android**，所以本文只介绍了ProtonVPN for Android的使用方法，其他平台的使用方法请自行查阅。
 ## ProtonVPN产品系列
+⚠**注意**
+* 请确保你已经注册了Proton账号，如果没有请先注册一个账号。前往[ProtonVPN官网](https://protonvpn.com/)注册账号。
+* 注册账号后，下面的下载网址将直接导航至下载页面，如果没有登录，将会跳转至登录页面。
+
+|           产品           |    平台    |                                                             简述                                                              |                    下载网址                     |
+| :----------------------: | :--------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
+|  ProtonVPN for Android   |  Android   |     ProtonVPN for Android是一款由ProtonVPN开发的Android平台上的VPN软件，它可以帮助你在Android平台上使用ProtonVPN的服务。      | [下载](https://account.protonvpn.com/downloads) |
+|    ProtonVPN for iOS     |    iOS     |           ProtonVPN for iOS是一款由ProtonVPN开发的iOS平台上的VPN软件，它可以帮助你在iOS平台上使用ProtonVPN的服务。            | [下载](https://account.protonvpn.com/downloads) |
+|  ProtonVPN for Windows   |  Windows   |     ProtonVPN for Windows是一款由ProtonVPN开发的Windows平台上的VPN软件，它可以帮助你在Windows平台上使用ProtonVPN的服务。      | [下载](https://account.protonvpn.com/downloads) |
+|   ProtonVPN for macOS    |   macOS    |        ProtonVPN for macOS是一款由ProtonVPN开发的macOS平台上的VPN软件，它可以帮助你在macOS平台上使用ProtonVPN的服务。         | [下载](https://account.protonvpn.com/downloads) |
+| ProtonVPN for GNU/Linux  | GNU/Linux  |  ProtonVPN for GNU/Linux是一款由ProtonVPN开发的GNU/Linux平台上的VPN软件，它可以帮助你在GNU/Linux平台上使用ProtonVPN的服务。   | [下载](https://account.protonvpn.com/downloads) |
+| ProtonVPN for Chromebook | Chromebook | ProtonVPN for Chromebook是一款由ProtonVPN开发的Chromebook平台上的VPN软件，它可以帮助你在Chromebook平台上使用ProtonVPN的服务。 | [下载](https://account.protonvpn.com/downloads) |
+| ProtonVPN for Android TV | Android TV | ProtonVPN for Android TV是一款由ProtonVPN开发的Android TV平台上的VPN软件，它可以帮助你在Android TV平台上使用ProtonVPN的服务。 | [下载](https://account.protonvpn.com/downloads) |
