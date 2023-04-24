@@ -2,14 +2,14 @@
 
 ## 目录
 - [ProtonVPN概况](#protonvpn%E6%A6%82%E5%86%B5)
-- [ProtonVPN产品系列](#proton%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
-  - [ProtonVPN for Android](#proton%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
-  - [ProtonVPN for iOS](#proton%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
-  - [ProtonVPN for Windows](#proton%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
-  - [ProtonVPN for macOS](#proton%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
-  - [ProtonVPN for GNU/Linux](#proton%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
-  - [ProtonVPN for Chromebook](#proton%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
-  - [ProtonVPN for Android TV](#proton%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+- [ProtonVPN产品系列](#protonvpn%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+  - [ProtonVPN for Android](#protonvpn%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+  - [ProtonVPN for iOS](#protonvpn%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+  - [ProtonVPN for Windows](#protonvpn%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+  - [ProtonVPN for macOS](#protonvpn%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+  - [ProtonVPN for GNU/Linux](#protonvpn%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+  - [ProtonVPN for Chromebook](#protonvpn%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+  - [ProtonVPN for Android TV](#protonvpn%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
 - [一句话总结](#%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%80%BB%E7%BB%93)
 
 ## ProtonVPN概况
@@ -18,10 +18,10 @@
 
 它与Clash的最大不同就是它可以算上是**非常正规**的一款VPN，这家公司专门研究该领域的技术，而且其VPN的速度也是非常快的，但是其缺点就是**免费用户的节点较少**，而且**免费用户的速度也是有限制的**，但是其**付费用户的节点和速度都是非常不错的**。所以如果你想要一款**正规的VPN**，那么ProtonVPN是一个不错的选择。
 
-❗由于本人目前只体验过**ProtonVPN for Android**，所以本文只介绍了ProtonVPN for Android的使用方法，其他平台的使用方法请自行查阅。
+❗由于本人目前只体验过**ProtonVPN for Android**，所以本文只介绍了**ProtonVPN for Android**的使用方法，其他平台的使用方法请自行查阅。
 
-附官方介绍(英文)：
-[Features(特性)](https://protonvpn.com/secure-vpn)
+附官方介绍(英文)：  
+[Features(特性)](https://protonvpn.com/secure-vpn)  
 [About(关于)](https://protonvpn.com/about)
 
 ## ProtonVPN产品系列
@@ -40,7 +40,7 @@
 | ProtonVPN for Android TV | Android TV | ProtonVPN for Android TV是一款由ProtonVPN开发的Android TV平台上的VPN软件，它可以帮助你在Android TV平台上使用ProtonVPN的服务。 | [下载](https://account.protonvpn.com/downloads) |
 
 ## 一句话总结
-还是那句话，**魔法工具是正常使用本仓库推荐的所有实用工具的基础，也是拓宽自己信息渠道的很好的途径。**既然Windows电脑有了，自己的Android手机怎么能没有呢？ 💞 
+还是那句话，**魔法工具是正常使用本仓库推荐的所有实用工具的基础，也是拓宽自己信息渠道的很好的途径**。既然Windows电脑有了，自己的Android手机怎么能没有呢？ 💞 
 
 [🔝返回顶部](#目录)
 
