@@ -6,9 +6,11 @@
 [Blogs(博客)](https://protonvpn.com/blog/)
 
 ## 个人经验
-❗ 由于本人目前只体验过**ProtonVPN for Android**，所以本文只介绍了**ProtonVPN for Android**的使用方法，其他平台的使用方法请自行查阅。并且这里以**Huawei**的**Harmony OS**为例，其他Android系统的使用类似。  
-❗ 这里默认你已经掌握了Windows电脑的科学上网使用方法。如果没有，请先前往：[Clash](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN/Clash%20for%20Windows)  
-❗ 该软件本身初次使用时需要魔法环境登录，初次连接成功后就不再需要  
+❗ 由于本人目前只体验过**ProtonVPN for Android**，所以本文只介绍了**ProtonVPN for Android**的使用方法，其他平台的使用方法请自行查阅。并且这里以**Huawei**的**Harmony OS**为例，其他**Android系统**的使用类似。 
+
+❗ 这里默认你已经掌握了**Windows电脑的科学上网**使用方法。如果没有，请先前往：[Clash](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN/Clash%20for%20Windows)，了解Clash的安装使用。  
+
+❗ 该软件本身初次使用时需要**魔法环境登录**，初次连接成功后就不再需要，   
 
 * **环境配置**(手机上完成或者电脑上下载文件，传到手机)  
 你需要找一个临时使用的VPN，用来登录ProtonVPN账号  
