@@ -18,6 +18,7 @@
   - [ChatGPT_Academic](#)
   - [AutoGPT](#)
   - [AgentGPT](#)
+  - [MiniGPT4](#)
   - [Google Bard](#)
   - [Claude](#)
 - [人工智能使用平台](#视频处理)
