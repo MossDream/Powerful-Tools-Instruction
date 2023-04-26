@@ -15,6 +15,7 @@
   - [ProtonVPN-适用于Android](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN/ProtonVPN)
 - [🆒通用人工智能](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI)
   - [ChatGPT](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/ChatGPT)
+  - [ChatGPT_Academic](#)
   - [AutoGPT](#终端)
   - [AgentGPT](#文本编辑器)
   - [Google Bard](#浏览器)
