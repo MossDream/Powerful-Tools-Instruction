@@ -9,6 +9,10 @@
     - [ChatGPT](#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
     - [ChatGPT Plus](#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
     - [ChatGPT Desktop](#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+    - [AutoGPT](#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+    - [AgentGPT](#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+    - [MiniGPT4](#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
+    - [ChatGPT_Academic](#chatgpt%E4%BA%A7%E5%93%81%E7%B3%BB%E5%88%97)
 - [一句话总结](#%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%80%BB%E7%BB%93)
 
 
