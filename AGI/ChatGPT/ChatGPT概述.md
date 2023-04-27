@@ -53,12 +53,13 @@
 |     gpt-4     | [OpenAI](https://chat.openai.com/) | [OpenAI](https://openai.com/) |  未开源  |
 
 ## ChatGPT产品系列
-|      名称       |          内核           |                                     简述                                      |                  使用网址                  |
-| :-------------: | :---------------------: | :---------------------------------------------------------------------------: | :----------------------------------------: |
-|     ChatGPT     |      gpt-3.5-turbo      |        基于GPT-3.5架构的大型语言模型，官网界面直接使用，内容体验最纯正        |     [OpenAI](https://chat.openai.com/)     |
-|  ChatGPT Plus   |          gpt-4          |         基于GPT-4架构的大型语言模型，官网界面直接使用，内容体验最纯正         |     [OpenAI](https://chat.openai.com/)     |
-| ChatGPT Desktop | gpt衍生项目，Github项目 | 提供官网接口的桌面应用程序，支持Windows、MacOS、Linux，还可以有一些个性化设置 | [Github](https://github.com/lencx/ChatGPT) |
-|    AgentGPT     |
+|      名称       |          内核           |                                     简述                                      |                          使用网址                          |
+| :-------------: | :---------------------: | :---------------------------------------------------------------------------: | :--------------------------------------------------------: |
+|     ChatGPT     |      gpt-3.5-turbo      |        基于GPT-3.5架构的大型语言模型，官网界面直接使用，内容体验最纯正        |             [OpenAI](https://chat.openai.com/)             |
+|  ChatGPT Plus   |          gpt-4          |         基于GPT-4架构的大型语言模型，官网界面直接使用，内容体验最纯正         |             [OpenAI](https://chat.openai.com/)             |
+| ChatGPT Desktop | gpt衍生项目，Github项目 | 提供官网接口的桌面应用程序，支持Windows、MacOS、Linux，还可以有一些个性化设置 |         [Github](https://github.com/lencx/ChatGPT)         |
+|     AutoGPT     | gpt衍生项目，Github项目 |           采用gpt API，只需目标便可自行执行任务的AI，并支持本地部署           | [Github](https://github.com/Significant-Gravitas/Auto-GPT) |
+|    AgentGPT     | gpt衍生项目，Github项目 |           相当于已经将Autogpt部署至Web供你使用，配置简便，UI更美观            |       [Github](https://github.com/reworkd/AgentGPT)        |
 ❗ 衍生项目详见专门的文件夹介绍：
 
 ## 一句话总结
