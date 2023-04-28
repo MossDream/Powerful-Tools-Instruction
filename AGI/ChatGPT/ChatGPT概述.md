@@ -67,7 +67,7 @@
 |     MiniGPT4     | gpt衍生项目，Github项目 |           基于GPT-4模型，接受图像并能就当前图像进行分析与对话，快速体验gpt4👍           |     [Github](https://github.com/Vision-CAIR/MiniGPT-4)     |
 | ChatGPT_Academic | gpt衍生项目，Github项目 | 强化后的学术使用gpt，可用于论文写作、文献阅读、学术问答等，集成功能强大，支持本地部署🔧 |  [Github](https://github.com/binary-husky/gpt_academicS)   |
 
-❗ **AutoGPT、AgentGPT、MiniGPT4、ChatGPT_Academic**衍生项目详见专门的文件夹介绍
+❗ **[AutoGPT](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/AutoGPT)**、**[AgentGPT](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/AgentGPT)**、**[MiniGPT4](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/MiniGPT4)**、    **[ChatGPT_Academic](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/ChatGPT_Academic)**衍生项目详见专门的文件夹介绍
 
 ## 一句话总结
 这款最近爆火的AI绝对是你聊天、写作（获取灵感、批量生成感想）、问问题的好帮手,围绕其的诸多优秀项目让你的体验更上一层楼！👏
