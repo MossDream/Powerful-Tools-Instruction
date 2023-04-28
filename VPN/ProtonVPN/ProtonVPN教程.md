@@ -3,9 +3,9 @@
 ## 官方文档
 ⚠官方文档均为英文，如有需要请自行翻译。 
 
-[Support(帮助与支持)](https://protonvpn.com/support/)
+**[Support(帮助与支持)](https://protonvpn.com/support/)**
 
-[Blogs(博客)](https://protonvpn.com/blog/)
+**[Blogs(博客)](https://protonvpn.com/blog/)**
 
 ## 个人经验
 ❗ 由于本人目前只体验过**ProtonVPN for Android**，所以本文只介绍了**ProtonVPN for Android**的使用方法，其他平台的使用方法请自行查阅。并且这里以**Huawei**的**Harmony OS**为例，其他**Android系统**的使用类似。 
@@ -20,11 +20,11 @@
 可以参考[迷雾通](https://geph.io/zhs),账号是立即注册立即使用的，下载安装和下面的步骤很像，不再赘述。
 
 * **账号注册** (电脑上完成)  
-如果你没有账号，用你的Windows电脑前往[ProtonVPN官网](https://protonvpn.com/)注册账号。
+如果你没有账号，用你的Windows电脑前往 **[ProtonVPN官网](https://protonvpn.com/)** 注册账号。
 🔑需要外网环境访问。
 
 * **下载安装**(电脑上下载文件，传到手机)  
-用你的账号在[ProtonVPN官网](https://protonvpn.com/)登录，(官网右上角**Sign in**)，进入你的页面，找到**download**选项。
+用你的账号在 **[ProtonVPN官网](https://protonvpn.com/)** 登录，(官网右上角**Sign in**)，进入你的页面，找到**download**选项。
 你有三种方式下载，推荐直接下载apk文件，也就是**第一种方式**。
 电脑上下载完毕后，分享到手机并安装。
 
