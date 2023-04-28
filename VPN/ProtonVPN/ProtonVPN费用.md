@@ -1,5 +1,5 @@
 # 💲费用
-📢以下信息来自ProtonVPN登录账号后面板的[Dashboard](https://account.protonvpn.com/dashboard?language=en)选项，如有变动请以官网为准。
+📢以下信息来自ProtonVPN登录账号后面板的 **[Dashboard](https://account.protonvpn.com/dashboard?language=en)** 选项，如有变动请以官网为准。
 
 ❗这里是提供**个人用户**的收费情况，企业用户请自行查阅官网。且只提供**VPN服务**，不提供其他功能(如Calendar等)服务的信息。
 
