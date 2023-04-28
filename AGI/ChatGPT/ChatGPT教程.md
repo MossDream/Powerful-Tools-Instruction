@@ -37,4 +37,20 @@
 - [x] 在邮箱验证环节，推荐使用国外邮箱，比如**Gmail**，**Outlook**，**Yahoo**等，国内邮箱可能会出现无法收到验证邮件的情况😒
 - [x] *从整个注册流程来看，核心的步骤就是：**营造魔法环境** 和 **接受手机验证码**，请务必确保做好这两步😎*
 
+### ChatGPT Plus升级
+🎈本部分教程让你在拥有一个**私人的OpenAI账号**基础上，可以使用OpenAI的所有产品，获得体验**gpt-4**模型的机会
+#### 视频教程
+**首先可以了解是否有必要升级到plus用户**☯
+* **[Youtobe平台](https://www.youtube.com/)**
+**[评测1](https://www.youtube.com/watch?v=EuU8dPTPmDw)**
+**[评测2](https://www.youtube.com/watch?v=h8GEbEMFG3s)**
+* [Bilibili平台](https://www.bilibili.com/)
+[评测](https://www.bilibili.com/video/BV1dT411q7ek/?spm_id_from=333.337.search-card.all.click)
+
+**然后可以选择以下视频进行升级或者解答你的疑问**👀
+* **[Youtobe平台](https://www.youtube.com/)**
+* **[升级教程1](https://www.youtube.com/watch?v=9zQmwBknYaU)**
+* **[升级教程2](https://www.youtube.com/watch?v=UBbD7SJx_js)**
+* **[升级教程3](https://www.youtube.com/watch?v=trtnE0Clcis)**
+
 
