@@ -2,7 +2,7 @@
 
 ## 目录
 - [注册安装教程](#注册安装教程)
-    - [ChatGPT注册]()
+    - [ChatGPT注册](#chatgpt注册)
     - [ChatGPT Plus升级]()
     - [ChatGPT Desktop安装]()
     - [AutoGPT部署]()
