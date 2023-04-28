@@ -31,4 +31,7 @@
 [ChatGPT注册教程1](https://www.bilibili.com/video/BV13A41167om/?spm_id_from=333.337.search-card.all.click)
 [ChatGPT注册教程2](https://www.bilibili.com/video/BV1YM4y1D7bs/?spm_id_from=333.337.search-card.all.click)
 
+#### 本人经验
+- [x] 进行注册的核心前提是拥有魔法环境👀,可以参见[⚠魔法工具](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN),这很重要!很重要!很重要!!!💖
+
 
