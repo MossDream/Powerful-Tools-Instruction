@@ -51,25 +51,25 @@
 >谢谢！期待为您提供帮助！👀
 
 ## ChatGPT概况
-|     模型      |                官网                |           开发公司            | 开源情况 |
-| :-----------: | :--------------------------------: | :---------------------------: | :------: |
-| gpt-3.5-turbo | [OpenAI](https://chat.openai.com/) | [OpenAI](https://openai.com/) |  已开源  |
-|     gpt-4     | [OpenAI](https://chat.openai.com/) | [OpenAI](https://openai.com/) |  未开源  |
+|     模型      |                  官网                  |             开发公司              | 开源情况 |
+| :-----------: | :------------------------------------: | :-------------------------------: | :------: |
+| gpt-3.5-turbo | **[OpenAI](https://chat.openai.com/)** | **[OpenAI](https://openai.com/)** |  已开源  |
+|     gpt-4     | **[OpenAI](https://chat.openai.com/)** | **[OpenAI](https://openai.com/)** |  未开源  |
 
 ## ChatGPT产品系列
-|       名称       |          内核           |                                          简述                                          |                          使用网址                          |
-| :--------------: | :---------------------: | :------------------------------------------------------------------------------------: | :--------------------------------------------------------: |
-|     ChatGPT      |      gpt-3.5-turbo      |            基于GPT-3.5架构的大型语言模型，官网界面直接使用，内容体验最纯正             |             [OpenAI](https://chat.openai.com/)             |
-|   ChatGPT Plus   |          gpt-4          |             基于GPT-4架构的大型语言模型，官网界面直接使用，内容体验最纯正              |             [OpenAI](https://chat.openai.com/)             |
-| ChatGPT Desktop  | gpt衍生项目，Github项目 |     提供官网接口的桌面应用程序，支持Windows、MacOS、Linux，还可以有一些个性化设置      |         [Github](https://github.com/lencx/ChatGPT)         |
-|     AutoGPT      | gpt衍生项目，Github项目 |               采用gpt API，只需目标便可自行执行任务的AI，并支持本地部署🆒               | [Github](https://github.com/Significant-Gravitas/Auto-GPT) |
-|     AgentGPT     | gpt衍生项目，Github项目 |               相当于已经将Autogpt部署至Web供你使用，配置简便，UI更美观😍                |       [Github](https://github.com/reworkd/AgentGPT)        |
-|     MiniGPT4     | gpt衍生项目，Github项目 |           基于GPT-4模型，接受图像并能就当前图像进行分析与对话，快速体验gpt4👍           |     [Github](https://github.com/Vision-CAIR/MiniGPT-4)     |
-| ChatGPT_Academic | gpt衍生项目，Github项目 | 强化后的学术使用gpt，可用于论文写作、文献阅读、学术问答等，集成功能强大，支持本地部署🔧 |  [Github](https://github.com/binary-husky/gpt_academicS)   |
+|       名称       |          内核           |                                          简述                                          |                            使用网址                            |
+| :--------------: | :---------------------: | :------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
+|     ChatGPT      |      gpt-3.5-turbo      |            基于GPT-3.5架构的大型语言模型，官网界面直接使用，内容体验最纯正             |             **[OpenAI](https://chat.openai.com/)**             |
+|   ChatGPT Plus   |          gpt-4          |             基于GPT-4架构的大型语言模型，官网界面直接使用，内容体验最纯正              |             **[OpenAI](https://chat.openai.com/)**             |
+| ChatGPT Desktop  | gpt衍生项目，Github项目 |     提供官网接口的桌面应用程序，支持Windows、MacOS、Linux，还可以有一些个性化设置      |         **[Github](https://github.com/lencx/ChatGPT)**         |
+|     AutoGPT      | gpt衍生项目，Github项目 |               采用gpt API，只需目标便可自行执行任务的AI，并支持本地部署🆒               | **[Github](https://github.com/Significant-Gravitas/Auto-GPT)** |
+|     AgentGPT     | gpt衍生项目，Github项目 |               相当于已经将Autogpt部署至Web供你使用，配置简便，UI更美观😍                |       **[Github](https://github.com/reworkd/AgentGPT)**        |
+|     MiniGPT4     | gpt衍生项目，Github项目 |           基于GPT-4模型，接受图像并能就当前图像进行分析与对话，快速体验gpt4👍           |     **[Github](https://github.com/Vision-CAIR/MiniGPT-4)**     |
+| ChatGPT_Academic | gpt衍生项目，Github项目 | 强化后的学术使用gpt，可用于论文写作、文献阅读、学术问答等，集成功能强大，支持本地部署🔧 |  **[Github](https://github.com/binary-husky/gpt_academicS)**   |
 
-❗ **[AutoGPT](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/AutoGPT)**、**[AgentGPT](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/AgentGPT)**、**[MiniGPT4](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/MiniGPT4)**、    **[ChatGPT_Academic](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/ChatGPT_Academic)**衍生项目详见专门的文件夹介绍
+❗ **[AutoGPT](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/AutoGPT)**、**[AgentGPT](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/AgentGPT)**、**[MiniGPT4](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/MiniGPT4)**、**[ChatGPT_Academic](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/AGI/ChatGPT_Academic)** 衍生项目详见专门的文件夹介绍
 
 ## 一句话总结
 这款最近爆火的AI绝对是你聊天、写作（获取灵感、批量生成感想）、问问题的好帮手,围绕其的诸多优秀项目让你的体验更上一层楼！👏
 
-**[🔝返回顶部](#目录)**
+[🔝返回顶部](#目录)

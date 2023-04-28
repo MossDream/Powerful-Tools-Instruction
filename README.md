@@ -9,6 +9,8 @@
 * **📊功能部分主要介绍软件的主要功能，包括软件的主要功能、优势、特色等**
 * **💯优缺点评测部分主要介绍软件的优缺点，包括软件的优点、缺点、适用场景等**
 * **💲费用部分主要介绍软件的收费情况，包括软件的收费方式、收费标准、收费优惠等**
+
+🔔🔔**所有点击可跳转的链接，加粗表示推荐使用魔法环境进入**,进入[⚠魔法工具](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN)了解更多！
 ## 目录
 - [⚠魔法工具](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN)
   - [Clash for Windows-适用于Windows](https://github.com/MossDream/Powerful-Tools-Instruction/tree/main/VPN/Clash%20for%20Windows)
