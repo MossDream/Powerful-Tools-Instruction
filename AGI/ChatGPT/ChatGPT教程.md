@@ -60,8 +60,8 @@
      * 首先点击顶部横条**Preference**选项，再点击**Contorl Center**，进入弹出的页面
      * 在**Setting**的**Gerneral**选项中，可以调整**主题(Theme)**，**light**为白色，**dark**为黑色，我个人比较喜欢黑色，所以选择了dark
      * 在**Set Speech Language**中，可以选择**三种简体中文语音**中的一种，选择后可以让ChatGPT以该语音朗读它的回答
-     
-     🎁以上两点记得按**Submit**提交你的更改  
+  
+     🎁以上两点记得按**Submit**提交你的更改
      
      * 在**Language Model**的**Sync Prompt**选项中，将所有选项**Enable**，这样你在对话框中输入斜杠，你就可以选择给**ChatGPT的Prompt指令**，实现高效问答。有关**Prompt指令**的更多信息可以参见[Prompt Engineering](#prompt-engineering)这一栏内容。
 
