@@ -1,21 +1,19 @@
 # 📝教程
 
 ## 目录
-- [注册安装教程](#注册安装教程)
+- [📝教程](#教程)
+  - [目录](#目录)
+  - [注册安装教程](#注册安装教程)
     - [ChatGPT注册](#chatgpt注册)
+      - [视频教程](#视频教程)
+      - [本人经验](#本人经验)
     - [ChatGPT Plus升级](#chatgpt-plus升级)
-    - [ChatGPT Desktop安装]()
-    - [AutoGPT部署]()
-    - [AgentGPT部署]()
-    - [MiniGPT4]()
-    - [ChatGPT_Academic部署]()
-- [使用教程]()
-    - [ChatGPT&ChatGPT Plus]()
-    - [ChatGPT Desktop]()
-    - [AutoGPT]()
-    - [AgentGPT]()
-    - [MiniGPT4]()
-    - [ChatGPT_Academic]()
+      - [视频教程](#视频教程-1)
+    - [ChatGPT Desktop安装](#chatgpt-desktop安装)
+      - [官方文档](#官方文档)
+      - [本人经验](#本人经验-1)
+  - [使用教程](#使用教程)
+    - [ChatGPT\&ChatGPT Plus](#chatgptchatgpt-plus)
 
 ## 注册安装教程
 ### ChatGPT注册
@@ -47,10 +45,27 @@
 * [Bilibili平台](https://www.bilibili.com/)  
 [评测](https://www.bilibili.com/video/BV1dT411q7ek/?spm_id_from=333.337.search-card.all.click)  
 
-**然后可以选择以下视频进行升级或者解答你的疑问**👀
+**然后可以选择以下视频进行升级过程的学习或者解答你的疑问**👀
 * **[Youtobe平台](https://www.youtube.com/)**
 * **[升级教程1](https://www.youtube.com/watch?v=9zQmwBknYaU)**
 * **[升级教程2](https://www.youtube.com/watch?v=UBbD7SJx_js)**
 * **[升级教程3](https://www.youtube.com/watch?v=trtnE0Clcis)**
 
+### ChatGPT Desktop安装
+🎈本部分教程让你的ChatGPT能在桌面一键打开，不必每次开启浏览器登录。注意打开的仍是**OpenAI官网**而不是所谓的**镜像网站** 
+#### 官方文档
+**[ChatGPT 桌面应用（Mac, Windows and Linux）](https://github.com/lencx/ChatGPT/blob/main/README-ZH_CN.md)**  
 
+#### 本人经验
+- [x] 本人使用的是**Windows 10**系统，**安装过程十分顺利**，**没有遇到任何问题**，**非常推荐**👍
+- [x] 以下是我安装完成之后推荐进行的一些配置：
+     * 首先点击顶部横条**Preference**选项，再点击**Contorl Center**，进入弹出的页面
+     * 在**Setting**的**Gerneral**选项中，可以调整**主题(Theme)**，**light**为白色，**dark**为黑色，我个人比较喜欢黑色，所以选择了dark
+     * 在**Set Speech Language**中，可以选择**三种简体中文语音**中的一种，选择后可以让ChatGPT以该语音朗读它的回答
+  
+     🎁以上两点记得按**Submit**提交你的更改
+
+     * 在**Language Model**的**Sync Prompt**选项中，将所有选项**Enable**，这样你在对话框中输入斜杠，你就可以选择给**ChatGPT的Prompt指令**，实现高效问答。有关**Prompt指令**的更多信息可以参见[Prompt Engineering](#prompt-engineering)这一栏内容。
+
+## 使用教程
+### ChatGPT&ChatGPT Plus
