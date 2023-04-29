@@ -12,6 +12,8 @@
     - [ChatGPT Desktop安装](#chatgpt-desktop安装)
       - [官方文档](#官方文档)
       - [本人经验](#本人经验-1)
+  - [使用教程](#使用教程)
+    - [ChatGPT\&ChatGPT Plus](#chatgptchatgpt-plus)
 
 ## 注册安装教程
 ### ChatGPT注册
@@ -62,7 +64,8 @@
      * 在**Set Speech Language**中，可以选择**三种简体中文语音**中的一种，选择后可以让ChatGPT以该语音朗读它的回答
   
      🎁以上两点记得按**Submit**提交你的更改
-     
+
      * 在**Language Model**的**Sync Prompt**选项中，将所有选项**Enable**，这样你在对话框中输入斜杠，你就可以选择给**ChatGPT的Prompt指令**，实现高效问答。有关**Prompt指令**的更多信息可以参见[Prompt Engineering](#prompt-engineering)这一栏内容。
 
-
+## 使用教程
+### ChatGPT&ChatGPT Plus
